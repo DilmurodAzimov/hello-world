@@ -1,6 +1,7 @@
 # hello-world
 First repository
-HEllo!
+
+Hello!
 
 I like PHP and C#.
 Lets code together :)
